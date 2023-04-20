@@ -39,7 +39,7 @@ def wishMe():
     else:  
         speak("Good Evening!")  
 
-    speak("I am your assistant, How may I help you?")      
+    speak("I am badge your assistant, How may I help you?")      
 
      #function to take command from user using microphone    
 def takeCommand():     
