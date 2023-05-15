@@ -1,6 +1,6 @@
 # badge_voice_assistant 
 
-j
+
 # Python Voice Assistant
 
 Python Voice Assistant is an open source voice assistant built with Python. It is designed to be easy to use and customize, allowing users to create their own voice commands and responses. With Python Voice Assistant, you can control your computer with your voice, create custom commands, and even integrate with other applications.
