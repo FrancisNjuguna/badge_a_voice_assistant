@@ -1,5 +1,5 @@
 # badge_voice_assistant 
-pygehy
+pygehyg
 
 # Python Voice Assistant
 
