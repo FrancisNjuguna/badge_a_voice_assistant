@@ -1,5 +1,5 @@
 # badge_voice_assistant 
-d;kkklk,
+d;kkklk
 
 # Python Voice Assistant
 
