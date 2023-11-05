@@ -38,3 +38,5 @@ Using Python Voice Assistant is simple and intuitive - just speak into your micr
  - Play music from streaming services like Spotify or Apple Music.
  
  and more.
+
+ c
