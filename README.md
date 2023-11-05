@@ -39,4 +39,4 @@ Using Python Voice Assistant is simple and intuitive - just speak into your micr
  
  and more.
 
- cheers enjoy
+ cheers enjoy!
