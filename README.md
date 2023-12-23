@@ -5,7 +5,7 @@
 Python Voice Assistant is an open-source voice assistant built with Python. It is designed to be easy to use and customize, allowing users to create their own voice commands and responses. With Python Voice Assistant, you can control your computer with your voice, create custom commands, and even integrate with other applications.
 
 ## Features
-y
+
 Python Voice Assistant has a wide range of features that make it a great choice for anyone looking for a powerful voice assistant. Here are some of the features that make Python Voice Assistant stand out: 
 
 - **Customizable Commands**: Create custom commands for your voice assistant using simple Python code. You can also integrate with other applications such as Spotify or Google Calendar. 
